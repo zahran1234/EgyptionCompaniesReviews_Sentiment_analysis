@@ -2,7 +2,7 @@
 
 
 steps of project 
-the dataset 
+dataset 
      collected from  Twitter and google play about Egyptian companies 
 data cleaning 
      1-headline emojis 
