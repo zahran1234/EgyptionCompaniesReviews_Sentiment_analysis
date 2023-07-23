@@ -1,6 +1,32 @@
 # EgyptionCompaniesReviews_Sentiment_analysis
-applying text processing, machine learning models, deep learning models like ANN, CNN, or sequential models like RNN, GRU, and LSTM, discover what is the best
-the dataset collected from  Twitter and google play about Egyptian companies 
+
+
 steps of project 
+the dataset 
+     collected from  Twitter and google play about Egyptian companies 
 data cleaning 
-     headline emojis 
+     1-headline emojis 
+     2-remove_diacritics
+     3-remove stop words 
+
+convert text data to numerical data 
+     1- TF-IDF 
+     2 - word2vec use average word2vec (features extraction )
+models
+      traditional machine-learning models
+           SVM
+           decision tree
+           random forest
+           KNN
+           NB 
+           LSVM 
+      Deep learning models 
+           forward neural network 
+           convolution neural network
+     sequential models 
+          RNN
+          GRU
+          LSTM
+
+      
+      
