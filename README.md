@@ -3,4 +3,4 @@ applying text processing, machine learning models, deep learning models like ANN
 the dataset collected from  Twitter and google play about Egyptian companies 
 steps of project 
 data cleaning 
-     headline emogine 
+     headline emojis 
