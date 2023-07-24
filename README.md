@@ -1,10 +1,10 @@
 # EgyptionCompaniesReviews_Sentiment_analysis
 
 
-#steps of project 
+#steps of the project 
 dataset 
      collected from  Twitter and google play about Egyptian companies 
-data cleaning 
+#data cleaning 
      1-headline emojis 
      2-remove_diacritics
      3-remove stop words 
