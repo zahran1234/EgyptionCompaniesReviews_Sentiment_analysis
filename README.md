@@ -1,7 +1,7 @@
 # EgyptionCompaniesReviews_Sentiment_analysis
 
 
-steps of project 
+#steps of project 
 dataset 
      collected from  Twitter and google play about Egyptian companies 
 data cleaning 
@@ -17,6 +17,7 @@ models
            SVM
            decision tree
            random forest
+
            KNN
            NB 
            LSVM 
