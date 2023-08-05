@@ -17,7 +17,7 @@
      2 - word2vec use average word2vec (features extraction )
 ```
 # 4 models
-## 4.1 Traditional machine-learning models
+## 4.1 Traditional machine learning models
 ```
            1-SVM
            2-decision tree
