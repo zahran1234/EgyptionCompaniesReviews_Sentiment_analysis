@@ -19,28 +19,32 @@
 # models
 ## Traditional machine-learning models
 ```
-           SVM
-           decision tree
-           random forest
-           KNN
-           NB 
-           LSVM
+           1-SVM
+           2-decision tree
+           3-random forest
+           4-KNN
+           5-NB 
+           6-LSVM
 ```
 ## Deep learning models 
            ```
-           forward neural network 
-           convolution neural network
-
-           ### sequential models 
-```
-RNN
-GRU
-LSTM
-
-```
+           1-forward neural network 
+           2-convolution neural network       
            
            ```
+## Sequential models 
+```
+1-RNN
+2-GRU
+3-LSTM
 
+```
+## best results 
+```
+apply average word2vec for text representation
+use GRU
+
+```
 
       
       
