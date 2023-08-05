@@ -4,7 +4,7 @@
 # steps of the project 
 ## dataset 
      collected from  Twitter and google play about Egyptian companies 
-## data cleaning 
+## Data cleaning 
 ```
      1-headline emojis 
      2-remove_diacritics
@@ -30,13 +30,17 @@
            ```
            forward neural network 
            convolution neural network
-           ```
-### sequential models 
+
+           ### sequential models 
 ```
 RNN
 GRU
 LSTM
+
 ```
+           
+           ```
+
 
       
       
